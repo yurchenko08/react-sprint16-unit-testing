@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test comnonent Info Render corectly 1`] = `
+<div>
+  <h3>
+    GitHub User Info
+  </h3>
+  <ul />
+</div>
+`;
+
+exports[`unit tests for comnonent Info Render corectly 1`] = `
+<div>
+  <h3>
+    GitHub User Info
+  </h3>
+  <ul />
+</div>
+`;
